@@ -1,5 +1,4 @@
-# tic-tac-toe-in-python
-# Tic Tac Toe (Terminal Version)
+# Tic Tac Toe in python
 
 A simple command-line Tic Tac Toe game in Python, where two players (X and O) take turns choosing their moves until someone wins or the game ends.
 
